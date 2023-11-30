@@ -74,7 +74,7 @@ class createPlayer {
 }
 
 class Main {
-    private static String[] agents = {"Sage", "Cypher", "Jett", "Neon", "Yoru", "Brimstone", "Viper"};
+    private static String[] agents = {"Sage", "Cypher", "Jett", "Neon", "Yoru", "Brimstone", "Viper", "Astra", "Harbor", "Sova", "Gekko"};
 
     static String getRandomAgent() {
         Random r = new Random();
